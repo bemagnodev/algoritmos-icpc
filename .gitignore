@@ -39,3 +39,6 @@
 
 # debug information files
 *.dwo
+
+#files to local tests 
+main.cpp
